@@ -11,7 +11,8 @@ import SwiftUI
 struct MediaBoothApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //ContentView()
+            ImageCarousel()
         }
     }
 }
